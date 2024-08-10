@@ -22,4 +22,5 @@ jobs:
         uses: docker://imbofaker007/schemistry_github_break_cheker
 
       - name: Register schema changes
+        if: github.event.pull_request.merged == true && github.event.pull_request.base.ref == 'master'
         uses: docker://imbofaker007/schemistry_github_push
