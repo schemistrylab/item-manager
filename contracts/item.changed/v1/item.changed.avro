@@ -1,7 +1,7 @@
 {
     "type": "record",
     "name": "simple",
-    "namespace": "org.itemmanager.avro",
+    "namespace": "org.item-manager.avro",
     "fields" : [
         {"name": "uuid", "type": "string"}
     ]
