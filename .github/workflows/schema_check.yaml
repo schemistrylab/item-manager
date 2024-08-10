@@ -18,3 +18,8 @@ jobs:
         uses: docker://imbofaker007/schemistry_github_lint
         with:
           message: "Hello from GitHub Actions workflow!"
+      - name: Check for breaking changes
+        uses: docker://imbofaker007/schemistry_github_lint
+
+      - name: Register schema changes
+        uses: docker://imbofaker007/schemistry_github_lint
