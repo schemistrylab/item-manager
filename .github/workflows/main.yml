@@ -1,0 +1,19 @@
+name: Schema check
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  use-plugin:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Lint schema
+        uses: docker://imbofaker007/schemistry_github_lint
+        with:
+          message: "Hello from GitHub Actions workflow!"
