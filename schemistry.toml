@@ -1,0 +1,15 @@
+Remote = '03254dce5db4a34b4ce0738c6924cfd7.serveo.net'
+Owner = 'yuvbeskrovnyy'
+Repository = 'item-manager'
+
+[Modules]
+Path = './contracts'
+
+[[Modules.List]]
+Name = 'item.changed'
+Language = 'avro'
+VersionNumber = '1.0.0'
+
+[Deps]
+Path = './dep_vendor'
+List = []
