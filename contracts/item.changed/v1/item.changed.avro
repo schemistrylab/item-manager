@@ -4,6 +4,7 @@
     "namespace": "org.itemmanager.avro",
     "fields" : [
         {"name": "uuid", "type": "string"},
-        {"name": "price", "type": "int"}
+        {"name": "price", "type": "int"},
+        {"name": "price2", "type": "int"}
     ]
 }
