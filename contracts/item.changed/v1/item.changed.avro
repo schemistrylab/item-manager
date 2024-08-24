@@ -5,6 +5,7 @@
     "fields" : [
         {"name": "uuid", "type": "string"},
         {"name": "price", "type": "int"},
-        {"name": "price2", "type": "int"}
+        {"name": "price2", "type": "int"},
+        {"name": "price3", "type": "int"}
     ]
 }
