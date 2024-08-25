@@ -1,4 +1,4 @@
-Remote = '0e223682972489b79923aa2239c52dc1.serveo.net'
+Remote = 'fa23a9755c8f76085cdedd7507cd4247.serveo.net'
 Owner = 'yuvbeskrovnyy'
 Repository = 'item-manager'
 
@@ -12,9 +12,6 @@ Language = 'avro'
 [Modules.List.Versions]
 [Modules.List.Versions.v1]
 VersionNumber = '1.0.0'
-
-[Modules.List.Versions.v3]
-VersionNumber = '3.0.0'
 
 [Deps]
 Path = './dep_vendor'
