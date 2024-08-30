@@ -8,9 +8,11 @@ Path = './contracts'
 [[Modules.List]]
 Name = 'item.changed'
 Language = 'avro'
+
+[Modules.List.Versions]
+[Modules.List.Versions.v1]
 VersionNumber = '1.0.0'
 
 [Deps]
 Path = './dep_vendor'
 List = []
-
