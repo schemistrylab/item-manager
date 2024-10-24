@@ -1,4 +1,4 @@
-Remote = '311ccfd91a699789eaf03b6ee1ba0427.serveo.net'
+Remote = 'b4ad131d6695b74ffbc367fc3a126124.serveo.net'
 Owner = 'yuvbeskrovnyy'
 Repository = 'item-manager'
 
@@ -8,6 +8,7 @@ Path = './contracts'
 [[Modules.List]]
 Name = 'item.changed'
 Language = 'avro'
+Status = 'enabled'
 
 [Modules.List.Versions]
 [Modules.List.Versions.v1]
