@@ -1,4 +1,4 @@
-Remote = 'localhost:1234'
+Remote = 'b4ad131d6695b74ffbc367fc3a126124.serveo.net'
 Owner = 'yuvbeskrovnyy'
 Repository = 'item-manager'
 Workspaces = ['./']
