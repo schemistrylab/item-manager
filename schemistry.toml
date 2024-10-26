@@ -8,7 +8,7 @@ Path = './contracts'
 [[Modules.List]]
 Name = 'item.changed'
 Language = 'avro'
-Status = 'enabled'
+Status = 'deprecated'
 
 [Modules.List.Versions]
 [Modules.List.Versions.v1]
