@@ -1,4 +1,4 @@
-Remote = '28da987c07fdca15e1272a8c28422e0b.serveo.net'
+Remote = '86cd-94-242-171-231.ngrok-free.app'
 Owner = 'yuvbeskrovnyy'
 Repository = 'item-manager'
 Workspaces = ['./']

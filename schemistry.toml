@@ -1,9 +1,18 @@
-Remote = '28da987c07fdca15e1272a8c28422e0b.serveo.net'
+Remote = '86cd-94-242-171-231.ngrok-free.app'
 Owner = 'yuvbeskrovnyy'
 Repository = 'item-manager'
 
 [Modules]
 Path = './contracts'
+
+[[Modules.List]]
+Name = 'item.changed'
+Language = 'proto3'
+Status = 'enabled'
+
+[Modules.List.Versions]
+[Modules.List.Versions.v1]
+VersionNumber = '1.0.0'
 
 [Deps]
 Path = './dep_vendor'
