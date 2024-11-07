@@ -1,9 +1,18 @@
-Remote = '28da987c07fdca15e1272a8c28422e0b.serveo.net'
+Remote = '49d2e027b23750fd92e536fde78e3a1f.serveo.net'
 Owner = 'yuvbeskrovnyy'
 Repository = 'item-manager'
 
 [Modules]
 Path = './contracts'
+
+[[Modules.List]]
+Name = 'item.changed'
+Language = 'proto3'
+Status = 'enabled'
+
+[Modules.List.Versions]
+[Modules.List.Versions.v1]
+VersionNumber = '1.0.0'
 
 [Deps]
 Path = './dep_vendor'
