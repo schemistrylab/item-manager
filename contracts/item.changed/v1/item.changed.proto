@@ -5,6 +5,7 @@ option go_package  = "/publish";
 message Event {
   bytes content = 1;
   repeated string props = 2;
+  repeated string props2 = 3;
 }
 
 message EventList {
