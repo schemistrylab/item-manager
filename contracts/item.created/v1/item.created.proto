@@ -1,4 +1,5 @@
 syntax = "proto3";
 message ItemCreated {
   int32 price = 1;
+  string currency = 2
 }
