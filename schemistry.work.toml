@@ -1,0 +1,4 @@
+Remote = '67e16c4e8bdf5434159ac9891dd934e3.serveo.net'
+Owner = 'schemistrylab'
+Repository = 'item-manager'
+Workspaces = ['./']
