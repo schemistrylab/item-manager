@@ -17,7 +17,7 @@ jobs:
       - name: Lint schema
         uses: docker://imbofaker007/schemistry_github_lint
         with:
-          message: "Hello from GitHub Actions workflow!"
+          token: "Hello from GitHub Actions workflow!"
       - name: Check for breaking changes
         uses: docker://imbofaker007/schemistry_github_break_cheker
 
