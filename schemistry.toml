@@ -9,4 +9,4 @@ dependencies = []
 name = 'item.created'
 language = 'proto3'
 status = 'enabled'
-majorVersions = {v1 = 'enabled'}
+majorVersions = {v1 = 'deprecated', v2 = 'enabled'}
