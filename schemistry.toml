@@ -1,4 +1,4 @@
-remote = 'e98c4fab6881ba2c9960c1bf3747eca6.serveo.net'
+remote = '36bd91f2149e170e98d766b81e432809.serveo.net'
 owner = 'schemistrylab'
 repository = 'item-manager'
 contracts_path = './contracts'
