@@ -1,0 +1,12 @@
+remote = '501c1bb9f68d60e1ba8df98093849fd0.serveo.net'
+owner = 'schemistrylab'
+repository = 'item-manager'
+contracts_path = './contracts'
+dependencies_path = './dep_vendor'
+dependencies = []
+
+[[contracts]]
+name = 'item.created'
+language = 'proto3'
+status = 'enabled'
+majorVersions = {v1 = 'enabled'}
