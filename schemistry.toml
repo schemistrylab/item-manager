@@ -3,10 +3,5 @@ owner = 'schemistrylab'
 repository = 'item-manager'
 contracts_path = './contracts'
 dependencies_path = './dep_vendor'
+contracts = []
 dependencies = []
-
-[[contracts]]
-name = 'item.created'
-language = 'proto3'
-status = 'enabled'
-majorVersions = {v1 = 'deprecated', v2 = 'enabled'}
