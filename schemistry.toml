@@ -1,4 +1,4 @@
-remote = 'fc600231e3f74d.lhr.life'
+remote = '29950231ebb23d.lhr.life'
 owner = 'schemistrylab'
 repository = 'item-manager'
 contracts_path = './contracts'
@@ -8,10 +8,10 @@ dependencies_path = './dep_vendor'
 name = 'item.created'
 language = 'proto3'
 status = 'enabled'
-majorVersions = {v1 = 'enabled'}
+majorVersions = {v1 = 'deprecated', v2 = 'enabled'}
 
 [[dependencies]]
-remote = 'fc600231e3f74d.lhr.life'
+remote = '29950231ebb23d.lhr.life'
 owner = 'schemistrylab'
 repository = 'item-manager'
 name = 'item.created'
