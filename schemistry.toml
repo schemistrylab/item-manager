@@ -1,4 +1,4 @@
-remote = 'fc600231e3f74d.lhr.life'
+remote = '29950231ebb23d.lhr.life'
 owner = 'schemistrylab'
 repository = 'item-manager'
 contracts_path = './contracts'
@@ -11,7 +11,7 @@ status = 'enabled'
 majorVersions = {v1 = 'enabled'}
 
 [[dependencies]]
-remote = 'fc600231e3f74d.lhr.life'
+remote = '29950231ebb23d.lhr.life'
 owner = 'schemistrylab'
 repository = 'item-manager'
 name = 'item.created'
