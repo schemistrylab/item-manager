@@ -3,12 +3,7 @@ owner = 'schemistrylab'
 repository = 'item-manager'
 contracts_path = './contracts'
 dependencies_path = './dep_vendor'
-
-[[contracts]]
-name = 'item.created'
-language = 'proto3'
-status = 'enabled'
-majorVersions = {v1 = 'deprecated', v2 = 'enabled'}
+contracts = []
 
 [[dependencies]]
 remote = '96cd3ec23705b1.lhr.life'
