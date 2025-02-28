@@ -1,4 +1,4 @@
-remote = '32e93aa95ff03d.lhr.life'
+remote = 'ece13a5b4b46e0.lhr.life'
 owner = 'schemistrylab'
 repository = 'item-manager'
 contracts_path = './contracts'
