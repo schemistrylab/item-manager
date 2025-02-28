@@ -1,0 +1,12 @@
+remote = 'd7dff34b76f476.lhr.life'
+owner = 'icecream78'
+repository = 'item-manager'
+contracts_path = './contracts'
+dependencies_path = './dep_vendor'
+dependencies = []
+
+[[contracts]]
+name = 'item.created'
+language = 'proto3'
+status = 'enabled'
+majorVersions = {v1 = 'enabled'}
