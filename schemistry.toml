@@ -4,11 +4,4 @@ repository = 'item-manager'
 contracts_path = './contracts'
 dependencies_path = './dep_vendor'
 contracts = []
-
-[[dependencies]]
-remote = '2ba3662140078e.lhr.lifee'
-owner = 'schemistrylab'
-repository = 'item-manager'
-name = 'item.created'
-language = 'proto3'
-version = '1.1.0'
+dependencies = []
