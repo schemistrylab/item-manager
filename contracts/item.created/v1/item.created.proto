@@ -1,7 +1,14 @@
 syntax = "proto3";
 
+enum Currency {
+  CURRENCY_NONE = 0;
+  CURRENCY_RUB = 1;
+  CURRENCY_US = 2;
+  CURRENCY_EU = 3;
+}
+
 message ItemCreated {
   int64 id = 1;
   int64 price = 2;
-  string currency = 3;
+  Currency currency = 3;
 }
