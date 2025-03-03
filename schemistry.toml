@@ -1,5 +1,5 @@
 remote = 'fb5bc7269d3251efd763bf315d2c6e36.serveo.net'
-owner = 'schemistylab'
+owner = 'schemistrylab'
 repository = 'item-manager'
 contracts_path = './contracts'
 dependencies_path = './dep_vendor'
