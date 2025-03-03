@@ -1,0 +1,7 @@
+// Начальное тело события
+syntax = "proto3";
+
+message ItemCreated {
+  int64 id = 1;
+  int64 price = 2;
+}
