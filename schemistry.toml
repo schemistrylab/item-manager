@@ -1,7 +1,0 @@
-remote = '2ba3662140078e.lhr.life'
-owner = 'schemistrylab'
-repository = 'item-manager'
-contracts_path = './contracts'
-dependencies_path = './dep_vendor'
-contracts = []
-dependencies = []
