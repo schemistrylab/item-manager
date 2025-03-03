@@ -1,7 +1,0 @@
-remote = '42b42c469eded0ab8668821bb5402c42.serveo.net'
-owner = 'schemistrylab'
-repository = 'item-manager'
-contracts_path = './contracts'
-dependencies_path = './dep_vendor'
-contracts = []
-dependencies = []
