@@ -8,7 +8,7 @@ dependencies_path = './dep_vendor'
 name = 'item.created'
 language = 'proto3'
 status = 'enabled'
-majorVersions = {v1 = 'enabled'}
+majorVersions = {v1 = 'deprecated', v2 = 'enabled'}
 
 [[dependencies]]
 remote = 'fb5bc7269d3251efd763bf315d2c6e36.serveo.net'
